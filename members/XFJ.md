@@ -19,7 +19,7 @@ ps.我实在想不到我有什么个人介绍（哭
 
 大概啥都玩点？
 
-其实好像是做Magisk模块起家的（雾
+其实好像是做Magisk模块起家的（emmm？？
 
 ## Language
 可能掌握的语言
@@ -30,18 +30,22 @@ ps.我实在想不到我有什么个人介绍（哭
 
 - Python
 
-呜呜我应该是全SiiWay最笨的人了
+呜呜我应该是全SiiWay最笨的人了（哭
 
 ## Projects
 
 我都说了我是全SiiWay里最笨的人了，还想有项目？？！
 
+ps.在写了在写了，可以进我 Github 主页监工？（雾
+
 ## Contact
 
-个人主页: [XFJの主页](https://minecraftxfj.top)
+个人主页（求求加个群吧，都臭了（悲 ）: [XFJの主页](https://minecraftxfj.top)
 
 CoolAPK: [Minecraft雪峰君](https://www.coolapk.com/u/2998178)
 
+GitHub: [XFJ-YYQF](https://github.com/XFJ-YYQF)
+
 BiliBili: [Minecraft雪峰君](https://space.bilibili.com/518725775)
 
-GitHub: [XFJ-YYQF](https://github.com/XFJ-YYQF)
+
