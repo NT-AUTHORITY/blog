@@ -1,6 +1,11 @@
-# Member - XFJ (Minecraft雪峰君)
+![MIKU!](./XFJ/head_image.jpeg)
 
+<p align="center">
 > 「初始之音 响彻未来」
+</p>
+
+---
+# Member - XFJ (Minecraft雪峰君)
 
 也是加入SiiWay啦！！！
 
@@ -17,6 +22,9 @@ ps.我实在想不到我有什么个人介绍（哭
 其实好像是做Magisk模块起家的（雾
 
 ## Language
+可能掌握的语言
+
+- Scratch ！！！（bushi
 
 在学的语言
 
