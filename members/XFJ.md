@@ -1,7 +1,7 @@
 ![MIKU!](./XFJ/head_image.jpeg)
 
 <p align="center">
-> 「初始之音 响彻未来」
+「初始之音 响彻未来」
 </p>
 
 ---
